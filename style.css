@@ -1,0 +1,9 @@
+h1{color:maroon; background-color:white}
+h4{background-color:grey;
+color:white}
+body{background-color:Maroon}
+.img{width:100%;max-height:500px}
+p{width:300px; background-color:lightgrey}
+.row{display:flex;justify-content:center;
+justify-content:space-between}
+.card-img-top{max-height:125px}
